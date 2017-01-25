@@ -1,0 +1,1 @@
+Compile all files and run FrontendApplet.html to begin Monopoly GUI
